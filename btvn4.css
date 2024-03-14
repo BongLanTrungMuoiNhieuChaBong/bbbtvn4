@@ -1,0 +1,111 @@
+.card {
+  width: 1320px;
+  margin: auto;
+}
+.picture {
+  background-image: url(https://leospaw.com/cdn/shop/files/Hero_Banner_2_mobile_540x.jpg?v=1686848201);
+  background-repeat: no-repeat;
+  height: 800px;
+  background-size: cover;
+}
+h2 {
+  color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  grid-area: auto;
+  line-height: 43, 2px;
+  margin: 0px 0px 2px;
+  text-align: center;
+  margin-top: 30px;
+}
+.text {
+  font-size: 20.06px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.New-Releases1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+img {
+  width: 285px;
+}
+p {
+  color: black;
+  font-size: 17px;
+  font-family: -apple-system;
+  grid-area: auto;
+  letter-spacing: 0.425px;
+  line-height: 27.2px;
+}
+.inline {
+  display: flex;
+}
+.product-picture {
+  width: 285px;
+  grid-area: auto;
+  letter-spacing: 0.425px;
+  line-height: 27.2px;
+  text-align: left;
+}
+.product-text {
+  width: 285px;
+}
+.text1 {
+  text-align: center;
+  font-size: 17px;
+  color:rgb(28, 29, 29)
+  width: 920px;
+  height: 54px;
+  margin-left: 200px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.container1 img {
+  width: 160px;
+  height: 240px;
+}
+.price-before {
+  color: black;
+  display: inline;
+  font-size: 17px;
+  grid-area: auto;
+  letter-spacing: 0.425px;
+  text-align: left;
+  text-decoration: line-through;
+}
+.price-after {
+  color: black;
+  display: inline;
+  font-size: 17px;
+  grid-area: auto;
+  letter-spacing: 0.425px;
+  text-align: left;
+  padding-left: 10px;
+}
+.icon {
+  color: rgb(252, 188, 44);
+}
+.New-Releases1 {
+  color: black;
+  font-family: ;
+  font-size: 36px;
+  font-weight: 700;
+  grid-area: auto;
+  line-height: 43.2px;
+  text-align: center;
+}
+.Most-Loved-Items {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
